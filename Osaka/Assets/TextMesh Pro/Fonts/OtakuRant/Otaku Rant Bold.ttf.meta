@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1c64a7dd381d8b94c8638194a670152b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Otaku Rant
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 320b8f5efdd3f0243bf21cf526bdcf55, type: 3}
+  - {fileID: 12800000, guid: 0430f8420147bf24394581087f9e06e8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
