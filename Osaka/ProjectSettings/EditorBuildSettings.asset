@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NiggerOsakaMainMenu.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/O Sock_0.unity
+    guid: d19985b96c8123148b5f22d9ce68c362
   m_configObjects: {}
