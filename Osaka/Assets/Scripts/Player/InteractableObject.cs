@@ -9,7 +9,6 @@ public class InteractableObject : MonoBehaviour
 
 
     private Transform player; // Reference to the player's transform
-    private bool isInRange = false;
 
     private void Start()
     {
