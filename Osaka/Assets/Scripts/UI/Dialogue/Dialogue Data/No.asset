@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e41930d97e5a3ab41a22103f9f18ec75, type: 3}
-  m_Name: John lmao
+  m_Name: No
   m_EditorClassIdentifier: 
   dialogue:
   - "basic first test for dialogue data\t"
