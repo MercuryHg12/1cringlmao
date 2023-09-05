@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: No
   m_EditorClassIdentifier: 
   dialogue:
-  - "basic first test for dialogue data\t"
-  - HAAAAAAAAAAAAAAAAAAAAAAAHHHAAAAA
+  - No lmao
+  responses: []
