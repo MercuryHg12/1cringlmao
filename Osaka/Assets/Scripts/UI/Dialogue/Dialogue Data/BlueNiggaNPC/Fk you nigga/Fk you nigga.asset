@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e41930d97e5a3ab41a22103f9f18ec75, type: 3}
+  m_Name: Fk you nigga
+  m_EditorClassIdentifier: 
+  dialogue:
+  - 'no, fk YOU!
+
+    You wanna fight?!'
+  responses:
+  - responseText: ok ok im sorry
+    dialogueObject: {fileID: 11400000, guid: 13379dfb36e495a4ab78487b05a1541a, type: 2}

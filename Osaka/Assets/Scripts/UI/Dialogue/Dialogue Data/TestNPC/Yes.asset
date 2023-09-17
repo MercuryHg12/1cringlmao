@@ -14,4 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogue:
   - yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  - 'try interacting again ill say something idfferent.
+
+    because you said yes
+    and the dialogue is over.'
   responses: []

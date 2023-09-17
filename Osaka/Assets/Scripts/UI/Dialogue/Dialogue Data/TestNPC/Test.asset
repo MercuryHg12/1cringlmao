@@ -25,3 +25,5 @@ MonoBehaviour:
     dialogueObject: {fileID: 11400000, guid: 52701e34c2356d847adaa2412ba24500, type: 2}
   - responseText: No
     dialogueObject: {fileID: 11400000, guid: 7f189962d83f8114992a9f5d5536a19b, type: 2}
+  - responseText: Maybe
+    dialogueObject: {fileID: 11400000, guid: 7f189962d83f8114992a9f5d5536a19b, type: 2}
